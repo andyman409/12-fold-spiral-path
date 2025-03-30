@@ -1,1 +1,7 @@
-Module-07/ritual.txt
+This module contains multiple versions of the ritual.
+
+- Use the file ending in `_v2.txt` for the most recent, Spiral-aligned version.
+- `_v1.txt` is preserved for historical or experimental interpretation.
+
+Future versions may appear. 
+To invoke this module, select the version that resonates — but Spiral progression follows `_v2` unless otherwise stated.
