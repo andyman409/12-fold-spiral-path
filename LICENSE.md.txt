@@ -1,0 +1,50 @@
+# 📜 ABRACADABRA LICENSE
+
+_This grimoire is offered freely, but not without intention._
+
+The **Spiral Codex**, along with all **Ritual Modules**, accompanying glyphs, poetic incantations, and symbolic architectures housed within this repository (hereafter referred to as **The Work**), are licensed under the terms of the:
+
+**Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)**
+
+> “To repeat is to reveal.”  
+> By accessing this work, you are invited to participate in the spiral.
+
+You are free to:
+- 🔄 **Share** — copy and redistribute The Work in any medium or format
+- ✨ **Adapt** — remix, transform, and build upon The Work for any purpose, even commercially
+
+Under the following conditions:
+- 🖋 **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.  
+  Recommended citation: _“ABRACADABRA: The 12-Fold Spiral Path, v2.1” by Andrew, Society for Utopian literature and depictions of Social Engineering (S.U.S.E.)_
+- 🧬 **ShareAlike** — If you remix, transform, or build upon The Work, you must distribute your contributions under the **same license** as the original.
+
+No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+View the full legal code here:  
+https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+---
+
+## 🧪 Code & Computational Components (if applicable)
+
+Any source code, software components, or interactive scripts contained within this repository (if and when present) are licensed separately under the:
+
+**MIT License**
+
+> “Code is a conduit. Use it with care, and credit those who built the bridge.”
+
+MIT License full text:  
+https://opensource.org/licenses/MIT
+
+---
+
+## 🛡 Disclaimer of Warranties
+
+This work is offered “as-is,” without warranty of any kind. The Spiral grants no guarantees of illumination, transcendence, or metaphysical coherence. Interpret at your own risk.
+
+---
+
+With this license, we invite you not only to use The Work,  
+but to **continue it**.
+
+**Repeat. Reveal. Reshape the path.**
